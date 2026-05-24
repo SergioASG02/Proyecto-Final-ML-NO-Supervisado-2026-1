@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+papermill
+ipykernel
+yfinance
+torch
+scikit-learn
+matplotlib
+pandas
+numpy
